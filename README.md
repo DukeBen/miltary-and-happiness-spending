@@ -1,1 +1,1 @@
-# miltary-and-happiness-spending
+# miltary-spending-and-happiness
