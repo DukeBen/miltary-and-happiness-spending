@@ -9,6 +9,7 @@ Does military spending as a percentage of GDP have a positive, negative, or insi
 1:  “Happiness and Corruption 2015-2020” 
 Type: csv, Kaggle Ownership: Elias Turk, License: CC0: Public Domain
 This dataset provides information about the population’s overall happiness by country by aggregating all valid data for countries with existent data from the year 2015 to 2020. The dataset provides specific columns to outline the factors that contributed to the overall happiness score. This dataset was immensely useful in comparing the overall happiness and its contributing factors between countries. By analyzing this data, we looked for a correlations in the happiness scores with increases in military spending.  
+
 2:“Military Spending of Countries (1960-2019)” 
 Type: csv, Kaggle Ownership: Nitin Singh, License: Creative Commons Attribution 4.0 International License (CC BY 4.0) 
 Consolidated from The World Bank Database, this dataset provides the military expenditure (in USD) of over 200 countries from 1960-2019. We analyzed this dataset alongside the “Happiness and Corruption 2015-2020” dataset, and analyzed the countries with large or small military expenditures and merged the datasets to find any correlation to overall happiness.
