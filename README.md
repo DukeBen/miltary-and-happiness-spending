@@ -5,7 +5,7 @@ Moreover, a population’s happiness relies on numerous factors, such as percept
 # Research Question: 
 Does military spending as a percentage of GDP have a positive, negative, or insignificant correlation with a country’s overall happiness? Does military spending correlate to more specific factors of happiness, such as freedom, health expectancy, and government trust? Are those factors of happiness strongly correlated with overall happiness or are they more inelastic?
 
-We looked at the following three datasets from Kaggle:
+# Datasets Used:
 1:  “Happiness and Corruption 2015-2020” 
 Type: csv, Kaggle Ownership: Elias Turk, License: CC0: Public Domain
 This dataset provides information about the population’s overall happiness by country by aggregating all valid data for countries with existent data from the year 2015 to 2020. The dataset provides specific columns to outline the factors that contributed to the overall happiness score. This dataset was immensely useful in comparing the overall happiness and its contributing factors between countries. By analyzing this data, we looked for a correlations in the happiness scores with increases in military spending.  
