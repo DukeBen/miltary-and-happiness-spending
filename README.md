@@ -12,6 +12,7 @@ This dataset provides information about the population’s overall happiness by 
 2:“Military Spending of Countries (1960-2019)” 
 Type: csv, Kaggle Ownership: Nitin Singh, License: Creative Commons Attribution 4.0 International License (CC BY 4.0) 
 Consolidated from The World Bank Database, this dataset provides the military expenditure (in USD) of over 200 countries from 1960-2019. We analyzed this dataset alongside the “Happiness and Corruption 2015-2020” dataset, and analyzed the countries with large or small military expenditures and merged the datasets to find any correlation to overall happiness.
+
 3: “World GDP (GDP, GDP per capita, and annual growths”
 Type: csv, Kaggle Ownership: Ozgur Cem Tas, License: CC0 – Public Domain
 	This dataset contains the overall GDP per country from 1960-2020. We utilized this dataset along with the “Military Spending of Countries (1960-2019)” dataset to calculate the percentage of military expenditure relative to GDP. This calculation allowed us to analyze military expenditure relative to overall GDP to account for differences in the size and economy of countries.
