@@ -1,4 +1,4 @@
-# Project Introduction
+# Project Purpose
 In a group project with three friends, we explored the impact of military spending on citizen happiness, given the polarizing opinions on this subject. Some argue that heavy military investment is crucial for national security, while others believe that these funds could be better allocated to social programs directly benefiting citizens, such as homelessness relief or medicare expansion.
 
 We hypothesized that military expenditure would influence population happiness levels. Our project focused on determining the nature and direction of this correlation. Additionally, we examined the relationships between military spending and factors contributing to happiness, including government trust, life expectancy, and perceived freedom.
